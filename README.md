@@ -14,6 +14,30 @@ This project supports **users, sellers, admins, products, carts, orders, deposit
 - Postman / ModHeader for API Testing
 
 ---
+## API Endpoints
+Authentication
+/api/users/register/
+/api/users/login/
+/api/users/logout/
+/api/users/token/refresh/
+Products
+/api/products/
+/api/products/
+/api/products/{id}/
+/api/products/{id}/
+Reviews
+/api/reviews/
+/api/reviews/{id}/
+/api/reviews/{id}/
+/api/products/{id}/reviews/
+Cart
+/api/cart/
+/api/cart/
+/api/cart/{id}/
+
+Deposit
+/api/deposit/
+---
 
 ## 📦 Project Apps
 
